@@ -1,3 +1,4 @@
+# DATE: 
 # DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
@@ -32,7 +33,7 @@ print("{:.2f}".format(d))
   
 ### OUTPUT:
 
-![alt text](<Screenshot 2024-04-09 090350.png>)
+![alt text](<Screenshot 2024-08-25 193739.png>)
 
 ### RESULT:
 Thus the distance the between two points is successfully executed
