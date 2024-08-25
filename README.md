@@ -1,5 +1,5 @@
 # DATE: 
-# DISTANCE-BETWEEN-TWO-POINTS
+# EX.NO.03 DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
 To write a python program to find the distance two 2 points
